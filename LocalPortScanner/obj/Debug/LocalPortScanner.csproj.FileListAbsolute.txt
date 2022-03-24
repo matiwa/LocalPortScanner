@@ -1,0 +1,6 @@
+C:\Users\matiwa\source\repos\LocalPortScanner\LocalPortScanner\bin\Debug\LocalPortScanner.exe
+C:\Users\matiwa\source\repos\LocalPortScanner\LocalPortScanner\bin\Debug\LocalPortScanner.pdb
+C:\Users\matiwa\source\repos\LocalPortScanner\LocalPortScanner\obj\Debug\LocalPortScanner.csprojAssemblyReference.cache
+C:\Users\matiwa\source\repos\LocalPortScanner\LocalPortScanner\obj\Debug\LocalPortScanner.csproj.CoreCompileInputs.cache
+C:\Users\matiwa\source\repos\LocalPortScanner\LocalPortScanner\obj\Debug\LocalPortScanner.exe
+C:\Users\matiwa\source\repos\LocalPortScanner\LocalPortScanner\obj\Debug\LocalPortScanner.pdb
